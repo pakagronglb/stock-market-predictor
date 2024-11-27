@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/52b19cb0-fae0-45f5-95b2-b5b9e1fa4324)# 📈 Stock Market Predictor 📊
+# 📈 Stock Market Predictor 📊
 
 Welcome to the **Stock Market Predictor**! This project leverages historical S&P 500 data and machine learning to predict stock market movements. Whether you're exploring financial trends or diving into data science, this project serves as a great introduction to stock market analysis with Python. 
 
